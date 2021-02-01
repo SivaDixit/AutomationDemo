@@ -12,3 +12,7 @@ pip install -U pytest
 
 2) To install selenium
 pip install -U selenium
+
+file handling is done using pyrobot.py
+
+After installing pyrobot.py change the name to pyrobot_.py in site-packages/pyrobot since it doesn't accepts the Keys and Robot class
